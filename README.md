@@ -7,7 +7,7 @@ An organized and smart Traffic penalty management system
 	1. https://materializecss.com/ : This link is useful in front end development , It provides useful component codes in css and javascript to 
                                  add the components in front end.
 	2. wampserver-3.14: An executable file is present along with other important installation in executable format for development of back end 
- 	                   and making connection uding PHP.
+ 	                   and making connection using PHP.
  
 * ALL SOURCE CODES OF FRONT END AND BACK END ARE PRESENT IN THE SOURCE CODE FOLDER.
 * CREATE A SERVER USING SOFTWARES LIKE WAMPSERVER AND MAKE THE BACK END
