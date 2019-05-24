@@ -17,6 +17,6 @@ An organized and smart Traffic penalty management system
 
 
 
-THIS PROJECT IS MADE BY ALLOKIK PRANSHU(17BCI0036)
+THIS PROJECT IS MADE BY ALLOKIK PRANSHU 
 For any firther queries please feel free to contact me  on allokik.pranshu2000@gmail.com
 
